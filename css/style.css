@@ -66,10 +66,19 @@ header nav a:hover {
     margin-bottom: 32px;
 }
 
+.cards p {
+    font-size: 17px;
+}
+
+.cards h2 {
+    font-size: 21px;
+}
+
 footer {
     padding: 24px;
     border-top: 1px solid #FFBB00;
     color: #666;
+    max-width: 1200px;
 }
 
 @media (max-width:760px) {
