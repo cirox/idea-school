@@ -9,10 +9,6 @@ img {
 }
 
 
-header .logo {
-    max-width: 280px;
-}
-
 header, main, footer {
     max-width: 1200px;
     margin: auto;
@@ -86,9 +82,6 @@ footer p {
 }
 
 @media (max-width:760px) {
-    header .logo {
-        max-width: 180px;
-    }
     header {
         display: block;
         padding-bottom: 0;
